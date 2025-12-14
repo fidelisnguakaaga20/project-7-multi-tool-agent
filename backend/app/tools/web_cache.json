@@ -1,0 +1,38 @@
+{
+  "openai latest news": [
+    {
+      "title": "OpenAI — News",
+      "url": "https://openai.com/news/",
+      "snippet": "Official announcements and product updates from OpenAI."
+    },
+    {
+      "title": "OpenAI — Blog",
+      "url": "https://openai.com/blog/",
+      "snippet": "Posts about research, releases, and engineering updates."
+    }
+  ],
+  "latest news about openai": [
+    {
+      "title": "OpenAI — News",
+      "url": "https://openai.com/news/",
+      "snippet": "Official announcements and product updates from OpenAI."
+    },
+    {
+      "title": "OpenAI — Blog",
+      "url": "https://openai.com/blog/",
+      "snippet": "Posts about research, releases, and engineering updates."
+    }
+  ],
+  "llm agent tools best practices": [
+    {
+      "title": "LangChain — Agents",
+      "url": "https://python.langchain.com/docs/concepts/agents/",
+      "snippet": "Concepts and patterns for tool-using agents."
+    },
+    {
+      "title": "LangGraph — Documentation",
+      "url": "https://langchain-ai.github.io/langgraph/",
+      "snippet": "Graph-based agent orchestration patterns."
+    }
+  ]
+}

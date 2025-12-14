@@ -1,0 +1,32 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.sqlite
+*.sqlite3
+
+# Chroma / vector store
+backend/storage/
+backend/app/storage/
+storage/
+
+# uploads
+backend/uploads/
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
+.venv/
+__pycache__/
+*.pyc
+backend/storage/
+backend/uploads/
+backend/reports/
